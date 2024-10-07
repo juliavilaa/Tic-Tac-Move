@@ -19,7 +19,7 @@
 
 1. Clone the repository to your local machine:
 
-    bash
+    ```bash
     git clone https://github.com/your-username/tic-tac-move.git
     cd tic-tac-move
     
@@ -27,20 +27,20 @@
 2. Create and activate a virtual environment:
 
     - On Windows:
-      bash
+      ```bash
       python -m venv venv
       venv\Scripts\activate
       
 
     - On MacOS/Linux:
-      bash
+      ```bash
       python3 -m venv venv
       source venv/bin/activate
       
 
 3. Install the required dependencies:
 
-    bash
+    ```bash
     pip install -r requirements.txt
     
 
